@@ -1,0 +1,8 @@
+{
+  "name": "知研學苑",
+  "description": "結合互動模擬實驗、系統化課程、記憶字卡與個人筆記的跨學科學習平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
